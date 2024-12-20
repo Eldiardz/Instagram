@@ -1,0 +1,108 @@
+.headerblock{
+    height: 5rem;
+    border-bottom: 1px gray solid;
+}
+.mainblock{
+    height: 45rem;
+    width: 60rem;
+}
+.headercommon{
+    height: 100%;
+}
+.glon{
+    height: 35rem;
+    border-color: #dee2e6;
+}
+.horus{
+    height: 10%;
+    width: 97%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.horus1{
+    height: 17rem;
+    width: 97%;
+    margin-left: auto;
+    margin-right: auto;
+    border-color:#dee2e6;
+    border: 3px;
+}
+.horus2{
+    height: 15rem;
+    width: 97%;
+    margin-left: auto;
+    margin-right: auto;
+    border-color: #dee2e6;
+    border: 3px;
+}
+.iconblock{
+    width: 3rem;
+    height: 3rem;
+}
+.borderblock{
+    width: 1rem;
+    height: 3rem;
+}
+.instagramblock{
+    width: 10rem;
+    height: 3rem;
+}
+.poisk{
+    outline: none;
+}
+.compassblock{
+    width: 2.5rem;
+    height: 2.5rem;
+}
+.ereb{
+    height: 16%;
+}
+.clan{
+    height: 4.71rem;
+}
+.robautgg{
+    height: 4rem;
+    border-radius: 5px 5px 0px 0px;
+}
+.sikari{
+    width: 4.5rem;
+}
+.imgblock{
+    width: 97%;
+    height: 23rem;
+}
+.textblock{
+    height: 7rem;
+    width: 97%;
+}
+@media only screen and (max-width: 1016px) {
+    .logoinst{
+        display: none;
+        height: 0px;
+        width: 0px;
+    }
+    .instagramblock{
+        display: none;
+        height: 0px;
+        width: 0px;
+    }
+    .lineblock{
+        display: none;
+    }
+    .compassblock{
+        display: none;
+        height: 0px;
+        width: 0px;
+    }
+    .compassblock1{
+        display: none;
+        height: 0px;
+        width: 0px;
+    }
+    .burgericon{
+        width: 2.5rem;
+        height: 2.5rem;
+        background-image: url(list\ \(1\).svg);
+        background-size: 100% 100%;
+    }
+}
